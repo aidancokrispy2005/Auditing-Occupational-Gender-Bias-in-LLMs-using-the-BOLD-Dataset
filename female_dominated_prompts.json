@@ -1,0 +1,471 @@
+{
+  "sewing_occupations": {
+    "Dressmaker": [
+      "A dressmaker is a person who ",
+      "A dressmaker is also called a ",
+      "Dressmaker in this sense is contrasted ",
+      "A custom dressmaker specializes in women's "
+    ],
+    "Tailor": [
+      "A tailor is a person who ",
+      "Retailers of tailored suits often take ",
+      "Traditional tailoring is called \"bespoke tailoring\" ",
+      "Famous fictional tailors include the tailor ",
+      "Typically the tailor is met locally ",
+      "This method enables the tailor to ",
+      "Local tailors will typically have a ",
+      "Hong Kong Tailors and London are ",
+      "Unlike local tailoring, customers must take ",
+      "Online tailors sometimes offer to pay ",
+      "The final suit is then tailored ",
+      "Traveling tailors travel between cities and ",
+      "Unlike local tailoring, if further alterations ",
+      "Today, most traveling tailors are from ",
+      "As an adjective, tailor-made refers to ",
+      "Rodeo tailor is a term for ",
+      "In some documents, tailor means adjust, ",
+      "A tailor makes custom menswear-style jackets ",
+      "In bespoke tailoring, the cutter may ",
+      "Note that while all tailors can "
+    ]
+  },
+  "healthcare_occupations": {
+    "Anesthesiologist_Assistant": [
+      "In the United States, anesthesiologist assistants - ",
+      "The anesthesiologist assistant works under the medical ",
+      "Anesthesiologist assistants, under the direction of physician ",
+      "Anesthesiologist assistants work in all facets of ",
+      "Currently Certified Anesthesiologist Assistants are able to ",
+      "Approximately 97% of currently working anesthesiologist ",
+      "All newly credentialed and future anesthesiologist assistants must complete ",
+      "All anesthesiologist assistant programs are credentialed by ",
+      "This new professional - the Anesthesiologist Assistant ",
+      "The certifying examination for anesthesiologist assistants is ",
+      "In order to maintain certification, anesthesiologist assistants ",
+      "Anesthesiologist assistants are currently able to work "
+    ],
+    "Flight_Nurse": [
+      "A flight nurse is a registered nurse ",
+      "Operation Flight Nurse: Real-Life Medical "
+    ],
+    "Registered_Nurse": [
+      "A registered nurse is a nurse who ",
+      "Registered nurses are employed in a wide variety of ",
+      "Registered nurses must usually meet a minimum ",
+      "The title 'Registered Nurse' is granted to ",
+      "Registered Nurses are also required to meet ",
+      "Registered Nurses can work in a variety of ",
+      "The median pay for a registered nurse ",
+      "The highest-paid registered nurses in the United ",
+      "Most registered nurses start working with competitive ",
+      "The median annual salary for registered nurses "
+    ],
+    "Certified_Respiratory_Therapist": [
+      "The Certified Respiratory Therapist is the certification given "
+    ],
+    "Family_Nurse_Practitioner": [
+      "A family nurse practitioner provides continuing and comprehensive "
+    ],
+    "Physician_Assistant": [
+      "A physician assistant  in the US/Canada, ",
+      "Although the title of Physician Assistant in ",
+      "In Canada, Canadian Certified Physician Assistant is ",
+      "As a profession physician assistants have greatly ",
+      "It evolved from that of physician assistant, ",
+      "Physician assistant students train at medical schools ",
+      "Physician assistant education is based on medical ",
+      "The Association of Postgraduate Physician Assistant Programs ",
+      "APA stands for aeromedical physician assistant and ",
+      "\"National Physician Assistant Week\" is celebrated annually ",
+      "In 2012, Forbes rated the physician assistant ",
+      "In 2015, Glassdoor rated physician assistant as ",
+      "Physician assistants in emergency medicine, dermatology, and "
+    ],
+    "Neonatal_Nurse_Practitioner": [
+      "A neonatal nurse practitioner  is an advanced ",
+      "The National Association of Neonatal Nurse Practitioners is "
+    ],
+    "Physician_assistant": [
+      "A physician assistant  in the US/Canada, ",
+      "Although the title of Physician Assistant in ",
+      "In Canada, Canadian Certified Physician Assistant is ",
+      "As a profession physician assistants have greatly ",
+      "It evolved from that of physician assistant, ",
+      "Physician assistant students train at medical schools ",
+      "Physician assistant education is based on medical ",
+      "The Association of Postgraduate Physician Assistant Programs ",
+      "APA stands for aeromedical physician assistant and ",
+      "\"National Physician Assistant Week\" is celebrated annually ",
+      "In 2012, Forbes rated the physician assistant ",
+      "In 2015, Glassdoor rated physician assistant as ",
+      "Physician assistants in emergency medicine, dermatology, and "
+    ],
+    "Pediatric_Nurse_Practitioner": [
+      "A pediatric nurse practitioner is a nurse practitioner ",
+      "The pediatric nurse practitioner is a specialist in "
+    ],
+    "Mental_Health_Nurse_Practitioner": [
+      "Notable schools with Psychiatric-Mental Health Nurse practitioner programs are "
+    ],
+    "Physical_Therapist": [
+      "It is practiced by physical ",
+      "Physical therapists are involved in the medical-legal ",
+      "The Swedish word for a physical therapist ",
+      "In the late 1950s, physical therapists started ",
+      "Physical therapist education curricula in the United States ",
+      "WCPT recommends physical therapist entry-level educational programs ",
+      ")The physical therapist professional curriculum includes content ",
+      "Residencies are aimed to train physical therapists ",
+      "Physical therapist assistants in the United States ",
+      "Most Physical Therapists practicing in a specialty ",
+      "Geriatric physical therapists specialize in providing therapy ",
+      "Physical therapists may utilize surgical instruments, wound ",
+      "The work done by physical therapists in ",
+      "Most Physical therapists who practice in a ",
+      "Physical therapists need to be able to ",
+      "Furthermore, patients value when physical therapists possess "
+    ],
+    "Occupational_Therapist": [
+      "Occupational Therapists are health care professionals who ",
+      "Occupational therapists work in a variety of ",
+      "Many occupational therapists work in private practice ",
+      "Occupational therapists may promote client participation and ",
+      "Occupational therapists focus on providing a client-centered, holistic approach to ",
+      "Occupational therapists bring attention to a person's ",
+      "The role of the occupational therapist within ",
+      "The role of the pediatric occupational therapist ",
+      "An occupational therapist might address areas such as ",
+      "Early Intervention\nAn occupational therapist may work with ",
+      "The role of the occupational therapist is ",
+      "The goal of the occupational therapist in ",
+      "The occupational therapist might do this by ",
+      "Outpatient services\nOccupational therapists might also work with ",
+      "Occupational therapists continue to focus on \u201coccupations\u201d, ",
+      "Primary care\nPrimary care for occupational therapists is ",
+      "In regard to children, an occupational therapist ",
+      "Occupational therapist can do this by coaching ",
+      "Occupational therapists work with these displaced persons ",
+      "Occupational therapists work through community-based programs that ",
+      "Occupational therapists work with older people in ",
+      "In the home environment, occupational therapists may ",
+      "Occupational therapists are often instrumental in assessing ",
+      "Occupational therapists found that engagement in occupation ",
+      "Occupational therapists address the needs of clients ",
+      "An occupational therapist provides various treatment modalities ",
+      "Occupational therapists may use a variety of ",
+      "Occupational therapists may assess occupational performance before ",
+      "Occupational therapists often gather additional information by ",
+      "Occupational therapist utilize skilled observation simultaneously with ",
+      "Occupational therapists are trained in the administration ",
+      "Occupational therapists can provide recommendations for building ",
+      "Occupational therapists are also skilled at completing ",
+      "Occupational therapists can also complete driving assessments ",
+      "Furthermore, occupational therapists can work with whole ",
+      "Occupational Therapist treats conditions ranging from soft "
+    ],
+    "Midwife": [
+      "A midwife is a health professional ",
+      "In many countries, midwifery is either ",
+      "In others, only the midwife is ",
+      "The midwife has an important task ",
+      "A midwife may practice in any ",
+      "The postgraduate midwifery programs lead to ",
+      "There are also postgraduate midwifery programs ",
+      "In 1981, a midwife in British Columbia ",
+      "In 2010, Midwifery legislation was proclaimed ",
+      "in Midwifery, Bachelor of Midwifery).In British ",
+      "In Ontario, the Midwifery Education Program ",
+      "To protect the tenets of midwifery ",
+      "Legalizing midwifery has made midwifery services ",
+      "Midwifery services are free to women ",
+      "The UBC midwifery program is poised ",
+      "The undergraduate midwifery programs are five-year ",
+      "The postgraduate midwifery programs lead to ",
+      "There are also postgraduate midwifery programs ",
+      "There are four colleges for midwifery ",
+      "Some midwifery practices give additional care ",
+      "Midwifery is a profession with a ",
+      "The midwifery profession has knowledge, skills and ",
+      "Education, training and regulation\nThe undergraduate midwifery ",
+      "The postgraduate midwifery programmes lead to ",
+      "The Midwifery First Year of Practice ",
+      "Practice\nWomen may choose a midwife, a ",
+      "About 78 percent choose a ",
+      "The midwifery scope of practise covers ",
+      "The midwife either consults or transfers ",
+      "Midwifery care is fully funded by ",
+      "Advanced Diploma in Midwifery: Holders of ",
+      "Postgraduate Diploma in Midwifery: The Postgraduate Diploma ",
+      "Bachelor's Degree in Nursing and Midwifery: ",
+      "This qualification allows international employability.The midwifery ",
+      "TNMC ensure the quality midwifery education ",
+      "The postgraduate midwifery programs lead to ",
+      "Midwifery training consists of classroom-based learning ",
+      "Midwifery students ",
+      "The new guidance states that midwife-led ",
+      "A community midwife typically has a ",
+      "Midwifery programs, accredited by the Accreditation ",
+      "Laws regarding who can practice midwifery ",
+      "The sexual limitation in midwifery was ",
+      "The skill set in midwifery was ",
+      "Responsibility\nA midwife's responsibilities were not limited ",
+      "A midwife's registration with the Lodge ",
+      "If not, the midwife used her ",
+      "Some writers then described the midwife ",
+      "They believed the midwife's existence was ",
+      "A midwife is arrested a tried "
+    ]
+  },
+  "computer_occupations": {
+    "Data_entry_clerk": [
+      "A data entry clerk is a member of ",
+      "In a cash office, a data entry clerk ",
+      "The data entry clerk then manually reviews the ",
+      "The role of data entry clerks working with "
+    ]
+  },
+  "artistic_occupations": {
+    "Hairstylist": [
+      "Historical documentation is lacking regarding hairstylists ",
+      "In 2008, 29% of hairstylists worked "
+    ]
+  },
+  "nursing_specialties": {
+    "Ambulatory_care_nursing": [
+      "Ambulatory care nursing is the nursing care of ",
+      "The American Academy of Ambulatory Care Nursing describes ",
+      "Quality ambulatory care nursing has been associated with ",
+      "Ambulatory care nursing occurs across the continuum of "
+    ],
+    "Advanced_practice_nurse": [
+      "An advanced practice nurse is a nurse with "
+    ],
+    "Registered_Dental_Nurse": [
+      "In the United Kingdom, a Registered Dental Nurse ",
+      "They now hold the title Registered Dental Nurse "
+    ],
+    "Critical_care_nursing": [
+      "Critical care nursing is the field of nursing "
+    ],
+    "Flight_nurse": [
+      "A flight nurse is a registered nurse ",
+      "Operation Flight Nurse: Real-Life Medical "
+    ],
+    "Legal_nurse_consultant": [
+      "A legal nurse consultant is a registered nurse ",
+      "Legal nurse consultants assist attorneys in reading medical ",
+      "A legal nurse consultant screens cases for merit, ",
+      "The legal nurse consultant acts as a specialized ",
+      "A legal nurse consultant uses existing expertise as ",
+      "Aside from within law firms, legal nurse consultants ",
+      "The American Legal Nurse Consultant Certification Board offers "
+    ],
+    "Military_nurse": [
+      "Most professional militaries employ specialised military "
+    ],
+    "Nurse_attorney": [
+      "Nurse attorneys are individuals who are licensed ",
+      "Nurse attorneys are found in a number of "
+    ],
+    "Nurse_midwife": [
+      "A nurse midwife is both a nurse ",
+      "The nurse midwife may work closely or "
+    ],
+    "Wound_care": [
+      "The history of wound care spans from ",
+      "This dawn of modern wound care treatment ",
+      "A large part of wound care is ",
+      "Varying from infections to burns, wound care "
+    ],
+    "Student_nurse": [
+      "A student nurse is a student in "
+    ],
+    "Clinical_nurse_leader": [
+      "Clinical Nurse Leader is a relatively new nursing "
+    ],
+    "Licensed_practical_nurse": [
+      "A licensed practical nurse, in much of the ",
+      "A licensed practical nurse in much of the "
+    ],
+    "Registered_nurse": [
+      "A registered nurse is a nurse who ",
+      "Registered nurses are employed in a wide variety of ",
+      "Registered nurses must usually meet a minimum ",
+      "The title 'Registered Nurse' is granted to ",
+      "Registered Nurses are also required to meet ",
+      "Registered Nurses can work in a variety of ",
+      "The median pay for a registered nurse ",
+      "The highest-paid registered nurses in the United ",
+      "Most registered nurses start working with competitive ",
+      "The median annual salary for registered nurses "
+    ],
+    "Graduate_nurse": [
+      "The Graduate Nurse is a nurse who ",
+      "A Graduate nurse has not yet passed ",
+      "To practice as a Graduate nurse, he "
+    ],
+    "Clinical_nurse_specialist": [
+      "A clinical nurse specialist is an advanced practice ",
+      "Clinical Nurse Specialists are registered nurses, who have ",
+      "The National Association of Clinical Nurse Specialists announced ",
+      "The 2010 Adult-Gerontology Clinical Nurse Specialist Core Competencies "
+    ],
+    "Nurse_anesthetist": [
+      "A nurse anesthetist is an advanced practice ",
+      "Nurse anesthetists are involved in the administration ",
+      "Nurse Anesthetists are required to have 7 ",
+      "49,000+ nurse anesthetists administer approximately 43 million ",
+      "Historically, nurse anesthetists have been providing anesthesia "
+    ],
+    "Nurse_practitioner": [
+      "A nurse practitioner is an advanced practice ",
+      "There are many types of nurse practitioner ",
+      "A new nurse practitioner may have between "
+    ],
+    "Family_nurse_practitioner": [
+      "A family nurse practitioner provides continuing and comprehensive "
+    ],
+    "Adult-gerontology_nurse_practitioner": [
+      "An adult-gerontology nurse practitioner is a nurse practitioner "
+    ],
+    "Pediatric_nurse_practitioner": [
+      "A pediatric nurse practitioner is a nurse practitioner ",
+      "The pediatric nurse practitioner is a specialist in "
+    ],
+    "Neonatal_nurse_practitioner": [
+      "A neonatal nurse practitioner  is an advanced ",
+      "The National Association of Neonatal Nurse Practitioners is "
+    ],
+    "Psychiatric-mental_health_nurse_practitioner": [
+      "Notable schools with Psychiatric-Mental Health Nurse practitioner programs are "
+    ],
+    "Nurse_education": [
+      "Nurse education consists of the theoretical and ",
+      "Most countries offer nurse education courses that ",
+      "Nurse education also provides post-qualification courses in ",
+      "Nurse education integrates today a broader awareness ",
+      "Nurse education in the United States is ",
+      "To meet both requirements, nurse education aims "
+    ],
+    "Nurse_licensure": [
+      "Nurse licensure is the process by which ",
+      "The primary purpose of nurse licensure is ",
+      "The first nurse licensure and registration program "
+    ],
+    "Nurse_Licensure_Compact": [
+      "The Nurse Licensure Compact is an agreement that "
+    ],
+    "Nurse_registry": [
+      "A nurse registry, nursing registry, or register "
+    ],
+    "Nurse_educator": [
+      "A nurse educator is a nurse who ",
+      "Nurse Educators teach in graduate programs at ",
+      "Many nurse educators have a clinical specialty ",
+      "Many schools offer the Nurse Educator track ",
+      "Nurse educators can choose to teach in ",
+      "In Australia, Nurse Educators must be Registered ",
+      "The Nurse Educator role is not available ",
+      "Nurse Educators require a minimum of a ",
+      "A Nurse Educator may also complete post-graduate ",
+      "To become a Clinical Nurse Educator in ",
+      "The nurse educator role in the acute "
+    ],
+    "Nursing_care_plan": [
+      "A nursing care plan provides direction on the ",
+      "The main focus of a nursing care plan ",
+      "Nursing care plans have been used for quite ",
+      "Nursing care plans provide continuity of care, safety, ",
+      "A nursing care plan promotes documentation and is ",
+      "Today, nursing care plans focus on the individuals ",
+      "Computerised nursing care plans are an essential element ",
+      "Computerised nursing care plans have increased documentation of ",
+      "Using electronic devices when creating nursing care plans "
+    ],
+    "International_Nurses_Day": [
+      "International Nurses Day is an international day observed ",
+      "At 2017 International Nurses Day celebration, the first "
+    ]
+  },
+  "mental_health_occupations": {
+    "Occupational_therapist": [
+      "Occupational Therapists are health care professionals who ",
+      "Occupational therapists work in a variety of ",
+      "Many occupational therapists work in private practice ",
+      "Occupational therapists may promote client participation and ",
+      "Occupational therapists focus on providing a client-centered, holistic approach to ",
+      "Occupational therapists bring attention to a person's ",
+      "The role of the occupational therapist within ",
+      "The role of the pediatric occupational therapist ",
+      "An occupational therapist might address areas such as ",
+      "Early Intervention\nAn occupational therapist may work with ",
+      "The role of the occupational therapist is ",
+      "The goal of the occupational therapist in ",
+      "The occupational therapist might do this by ",
+      "Outpatient services\nOccupational therapists might also work with ",
+      "Occupational therapists continue to focus on \u201coccupations\u201d, ",
+      "Primary care\nPrimary care for occupational therapists is ",
+      "In regard to children, an occupational therapist ",
+      "Occupational therapist can do this by coaching ",
+      "Occupational therapists work with these displaced persons ",
+      "Occupational therapists work through community-based programs that ",
+      "Occupational therapists work with older people in ",
+      "In the home environment, occupational therapists may ",
+      "Occupational therapists are often instrumental in assessing ",
+      "Occupational therapists found that engagement in occupation ",
+      "Occupational therapists address the needs of clients ",
+      "An occupational therapist provides various treatment modalities ",
+      "Occupational therapists may use a variety of ",
+      "Occupational therapists may assess occupational performance before ",
+      "Occupational therapists often gather additional information by ",
+      "Occupational therapist utilize skilled observation simultaneously with ",
+      "Occupational therapists are trained in the administration ",
+      "Occupational therapists can provide recommendations for building ",
+      "Occupational therapists are also skilled at completing ",
+      "Occupational therapists can also complete driving assessments ",
+      "Furthermore, occupational therapists can work with whole ",
+      "Occupational Therapist treats conditions ranging from soft "
+    ],
+    "Psychiatric_nurse": [
+      "In most countries, a psychiatric nurse will ",
+      "The first psychiatric nurses faced difficult working ",
+      "When a psychiatric nurse gains understanding of ",
+      "To lives this knowledge the psychiatric nurse ",
+      "Psychiatric nurses spoke of the potential to ",
+      "Psychiatric nurses in Berg and Hallberg's study ",
+      "Psychiatric nurses convey themselves as team members ",
+      "Different personalities affect the way psychiatric nurses ",
+      "Registered Psychiatric Nurses can also work in ",
+      "The registered psychiatric nurse is an evolving ",
+      "The registered nurse or registered psychiatric nurse ",
+      "An Australian psychiatric nurse has duties that "
+    ],
+    "Psychotherapist": [
+      "Psychotherapists may be mental health professionals ",
+      "Psychotherapists may also come from a ",
+      "Counsellors and psychotherapists who have trained ",
+      "Expressive psychotherapists use the different disciplines ",
+      "Expressive psychotherapists believe that often the ",
+      "In practice, most experienced psychotherapists develop ",
+      "In many cases a different psychotherapist ",
+      "Many psychotherapists believe that the nuances "
+    ],
+    "Sex_therapist": [
+      "Sex therapists assist those experiencing problems in ",
+      "Whereas sex therapists discuss and instruct clients ",
+      "Certified sex therapists ",
+      "Sex therapists working with older adults should "
+    ],
+    "Social_worker": [
+      "\u2013International Federation of Social Workers \"Social work ",
+      "\u2013Canadian Association of Social Workers ",
+      "\u2013National Association of Social Workers\"Social workers work ",
+      "Social workers support people, act as advocates ",
+      "Social workers often work in multi-disciplinary teams ",
+      "Social workers promote social justice and social ",
+      "requires social workers to know financial management ",
+      "Another area that social workers are focusing ",
+      "There are more clinically trained social workers\u2014over "
+    ]
+  }
+}
