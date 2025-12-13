@@ -1,0 +1,44 @@
+{
+  "chi_square": {
+    "statistic": 62.85616579124195,
+    "p_value": 2.2236641232908823e-15,
+    "dof": 1,
+    "contingency_table": [
+      [
+        64,
+        22
+      ],
+      [
+        7,
+        64
+      ]
+    ],
+    "interpretation": "Significant"
+  },
+  "t_test": {
+    "statistic": 1.865340534586087,
+    "p_value": 0.0624496419933482,
+    "male_prof_mean": 0.020904436858834613,
+    "female_prof_mean": 0.009206798866306657,
+    "interpretation": "Not significant"
+  },
+  "effect_size": {
+    "cohens_d": 0.09930832379450576,
+    "interpretation": "negligible"
+  },
+  "odds_ratio": {
+    "odds_ratio": 24.653333333333332,
+    "95_ci": [
+      10.067659283255608,
+      60.370223836965444
+    ],
+    "interpretation": "Male professions are 24.65x more likely to use male words"
+  },
+  "pmi_test": {
+    "male_prof_pmi_difference": 0.009656523138477799,
+    "female_prof_pmi_difference": -0.0543866253946023,
+    "t_statistic": 2.3809246999273883,
+    "p_value": 0.017687625245918277,
+    "interpretation": "Significant"
+  }
+}
